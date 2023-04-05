@@ -1,0 +1,3 @@
+abaqus python script
+
+

@@ -1,0 +1,5 @@
+# Save by sheng on 2022_07_15-19.50.55; build 2021 2020_03_06-22.50.37 167380
+from abaqus import *
+upgradeMdb('D:/Desktop/exmple-3Dqiuti/volume3.39%-2017.cae', 
+    'D:/Desktop/exmple-3Dqiuti/volume3.39%.cae')
+# Save by sheng on 2022_07_15-19.50.55; build 2021 2020_03_06-22.50.37 167380
